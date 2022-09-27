@@ -25,22 +25,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   </p> 
 
-
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Amarnath-Rao&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="160px"/>  
-
-    
-    <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Amarnath-Rao"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Amarnath-Rao" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amarnath-Rao&show_icons=true&locale=en&layout=compact" alt="Amarnath-Rao" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amarnath-Rao&show_icons=true&locale=en" alt="Amarnath-Rao" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amarnath-Rao&" alt="Amarnath-Rao" /></p>
-</p>
-
-
-
-
+  
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></p>
