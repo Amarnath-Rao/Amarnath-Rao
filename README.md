@@ -30,6 +30,4 @@
     
 <p><img align = "center" src = "https://holopin.io/api/user/board?user=ragn8rok"/></p>
 
-<p align="center"><img src="https://github.com/Black-D3vil007/Black-D3vil007/blob/main/github-user-contribution.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑"></p>
-
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></p>
