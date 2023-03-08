@@ -25,13 +25,13 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   </p> 
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amarnath-Rao&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="160px"/> 
+
+    
   
 
 <h1 align="center">
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Amarnath-Rao&theme=dracula"/>   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&hide=jupyter%20notebook"/> <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amarnath-Rao&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="160px"/>   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Amarnath-Rao&theme=dracula"/>   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&hide=jupyter%20notebook"/> <br/>
   
   
     
