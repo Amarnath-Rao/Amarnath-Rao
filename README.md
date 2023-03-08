@@ -27,7 +27,13 @@
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Amarnath-Rao&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="160px"/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amarnath-Rao&show_icons=true&theme=github_dark"/> <br/>
+  
+
+<h1 align="center">
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Amarnath-Rao&theme=dracula"/>   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&hide=jupyter%20notebook"/> <br/>
+  
+  
     
 <p><img align = "center" src = "https://holopin.io/api/user/board?user=ragn8rok"/></p>
 
