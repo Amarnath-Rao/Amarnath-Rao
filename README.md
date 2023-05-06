@@ -2,6 +2,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
+
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/> I'm Amar </h1>
 <h3 align="center">Undergraduate at Amrita Vishwa Vidhyapeetham</h3>
 
