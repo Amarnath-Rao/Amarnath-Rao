@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
+
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/> I'm Amar </h1>
 <h3 align="center">Undergraduate at Amrita Vishwa Vidhyapeetham</h3>
@@ -15,6 +15,8 @@
 - 📫 How to reach me : **AmarnathRao36@gmail.com**
 
 - ⚡ Fun fact ~ **May be sometimes too lazy**
+
+![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
 
 <h3> Skills and Tools <img src = "https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76118f1f8400b759e4d4c159f202c372dd2163f99644&rid=giphy.gif&ct=s" width = 32px> </h3>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
