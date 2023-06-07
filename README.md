@@ -37,14 +37,5 @@
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Amarnath-Rao&no-frame=true&theme=nord&row=1" alt="Trophy"></p>
 <p><img align = "center" src = "https://holopin.io/api/user/board?user=ragn8rok"/></p>
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.achievements.svg">
-
-</td></tr></table>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></p>
