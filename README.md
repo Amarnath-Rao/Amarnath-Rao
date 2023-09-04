@@ -1,13 +1,27 @@
 ![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
+<h3 align="left">Hello there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/> </h3>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></p>	
-<div id="header" align="center">	
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>	
-</div>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/> I'm Amar </h1>
-<h3 align="center">Undergraduate at Amrita Vishwa Vidhyapeetham</h3>
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Amarnath Rao"
+        self.role = "Software Engineer"
+        self.language_spoken = ["en_IN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+
 
 * 🔭 I’m currently working on **New things>?**
 * 💬 Ask me about- Blockchain, AI, Data Structures and Algorithms (DSA) and Competitive Programming 
