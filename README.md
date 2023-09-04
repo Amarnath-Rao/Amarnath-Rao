@@ -136,7 +136,56 @@
 <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a><img src="https://github-readme-stats.vercel.app/api?username=Amarnath-Rao&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="160px"/> </p>  
 <p align="left"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amarnath-Rao's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Amarnath-Rao&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/></p>
 
-<p><img align = "center" src = "https://holopin.io/api/user/board?user=ragn8rok"/></p>
+
+
+
+
+
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=react&hide_border=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a ><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Amarnath-Rao&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Amarnath-Rao1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+</details>
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></p>
