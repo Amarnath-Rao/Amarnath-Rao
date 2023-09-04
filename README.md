@@ -33,6 +33,11 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Amarnath-Rao&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="160px"/> 
 <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a></p>  
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Amarnath-Rao&no-frame=true&theme=nord&row=1" alt="Trophy"></p>
+<p align="center">
+    <a href="https://github.com/Amarnath-Rao/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amarnath-Rao's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Amarnath-Rao&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 <p><img align = "center" src = "https://holopin.io/api/user/board?user=ragn8rok"/></p>
 
 
