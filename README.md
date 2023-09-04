@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently pursing : **Bachelor's in Technology**
 
-- 🔗 My Website [Amarnath Rao]("https://amarnath-rao.github.io/")
+- 🔗 My Website [Amarnath Rao](https://amarnath-rao.github.io/)
 
 - 📫 How to reach me : **AmarnathRao36@gmail.com**
 
@@ -25,7 +25,7 @@
 <a href="https://codeforces.com/profile/Mr.BlackHole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AmarnathRao" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/AmarnathRao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AmarnathRao" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amarnath_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="AmarnathRao" height="30" width="40" /></a>
-<a href="https://discord.gg/DarthVader#1860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mechabotz" height="30" width="40" /></a>
+<a href="https://discord.gg/mechabotz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mechabotz" height="30" width="40" /></a>
 </p>
 
 <h3> Skills and Tools <img src = "https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76118f1f8400b759e4d4c159f202c372dd2163f99644&rid=giphy.gif&ct=s" width = 32px> </h3>
