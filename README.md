@@ -162,7 +162,7 @@ me.say_hi()
 </details>
 
 <details> 
-  <summary><h2>🏷️ Holopin Badges & Github Trophies</h2></summary>
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
 </details>
