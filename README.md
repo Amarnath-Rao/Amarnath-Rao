@@ -1,6 +1,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
-<h3 align="left">Hello there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/> </h3>
-<br>
+# Hello there 👋
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -20,9 +19,6 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
-<br>
-
 
 * 🔭 I’m currently working on **New things>?**
 * 💬 Ask me about- Blockchain, AI, Data Structures and Algorithms (DSA) and Competitive Programming 
