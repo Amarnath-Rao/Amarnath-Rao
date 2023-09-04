@@ -131,16 +131,6 @@
 </details>
 
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Amarnath-Rao&no-frame=true&theme=nord&row=1" alt="Trophy"></p>
-<p align="left"> 
-<a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a><img src="https://github-readme-stats.vercel.app/api?username=Amarnath-Rao&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="160px"/> </p>  
-<p align="left"><img alt="Amarnath-Rao's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Amarnath-Rao&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/></p>
-
-
-
-
-
-
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   <h3>🔥 Streak Stats</h3>
