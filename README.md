@@ -1,6 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
 <h3 align="left">Hello there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/> </h3>
-
+<br>
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -21,6 +21,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+<br>
 
 
 * 🔭 I’m currently working on **New things>?**
@@ -165,7 +166,7 @@ me.say_hi()
 </details>
 
 <details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
+  <summary><h2>🏷️ Holopin Badges & Github Trophies</h2></summary>
 
   <p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
 </details>
