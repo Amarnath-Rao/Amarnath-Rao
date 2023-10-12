@@ -1,7 +1,18 @@
 <p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
 
 ![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
-# Hello there 👋
+
+<div id="header" align="center">
+  <h1>
+  Hello there 👋, I'm Amarnath Rao
+  
+</h1>
+
+<div id="header" align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200"/>
+</div>
+</div>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -163,6 +174,15 @@ me.say_hi()
 
 </details>
 
+<h3 align="center"> 🏆 Let's Connect & Thanks for reading</h3>
+<div id="header" align="center">
+    <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />
+</div>
 
+  <div align="center">
 
-<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></p>
+  <img class="credit"><b>Designed & Developed with <img src="https://cdn.discordapp.com/attachments/1048479953592795156/1160898238107361280/d3exa79-490266e4-bda5-4d95-88a1-9567fab7970b.gif?ex=653655bc&is=6523e0bc&hm=10f05950f31e0ce1f594d884f7964d310d96be3de52fb0323b7f6a1e5070d2fa" width="20" align="center"/> by <a href="https://github.com/Amarnath-Rao"> Amarnath Rao </b></a>
+
+  </div>
+</img>
+
