@@ -1,3 +1,5 @@
+<p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
+
 ![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
 # Hello there 👋
 ```python
@@ -159,12 +161,6 @@ me.say_hi()
   <a><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Amarnath-Rao&bg_color=1F222E&color=60e1f7&line=3a82ba&point=FFFFFF&hide_border=true" /></a>
 
 
-</details>
-
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
 </details>
 
 
