@@ -35,7 +35,7 @@ me.say_hi()
 
 * 🔭 I’m currently working on **New things>?**
 * 💬 Ask me about- Blockchain, AI, Data Structures and Algorithms (DSA) and Competitive Programming 
-* 🔗 My Website [Amarnath Rao](https://amarnath-rao.github.io/)
+* 🔗 My Website [AmarnathRao.com](https://amarnath-rao.github.io/portfolio)
 * 📫 How to reach me : **AmarnathRao36@gmail.com**
 * ⚡ Fun fact ~ **May be sometimes too lazy**
 
