@@ -165,7 +165,8 @@ me.say_hi()
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-  <a><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&langs_count=10&hide=Jupyter Notebook&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=60e1f7&icon_color=F8D866" height="192px"/><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Amarnath-Rao&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=60e1f7&icon_color=60e1f7" height="192px"/></a>
+  <a><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=60e1f7&icon_color=F8D866" height="192px"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Amarnath-Rao&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=60e1f7&icon_color=60e1f7" height="192px"/></a>
   <br/>
   
 
