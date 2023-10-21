@@ -9,7 +9,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200"/>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="200"/>
 </div>
 </div>
 
@@ -187,3 +187,6 @@ me.say_hi()
   </div>
 </img>
 
+<div id="header" align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" />
+</div>
