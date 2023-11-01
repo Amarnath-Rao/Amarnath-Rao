@@ -8,9 +8,6 @@
   
 </h1>
 
-<div id="header" align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="200"/>
-</div>
 </div>
 
 ```python
