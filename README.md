@@ -152,7 +152,6 @@ me.say_hi()
 </details>
 
 
-<details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   <h3>🔥 Streak Stats</h3>
   <p>
@@ -169,8 +168,6 @@ me.say_hi()
 
   <a><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Amarnath-Rao&bg_color=1F222E&color=60e1f7&line=3a82ba&point=FFFFFF&hide_border=true" /></a>
 
-
-</details>
 
 <h3 align="center"> 🏆 Let's Connect & Thanks for reading</h3>
 <div id="header" align="center">
