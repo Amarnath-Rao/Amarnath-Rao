@@ -1,14 +1,6 @@
-<p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
-
 ![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
 
-<div id="header" align="center">
-  <h1>
-  Hello there 👋, I'm Amarnath Rao
-  
-</h1>
 
-</div>
 
 ```python
 #!/usr/bin/python
@@ -184,3 +176,4 @@ me.say_hi()
 <div id="header" align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" />
 </div>
+<p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
