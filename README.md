@@ -38,6 +38,11 @@ me.say_hi()
 </p>
 
 <details> 
+  <summary><h2>🧰 Holopin Badges</h2></summary>
+<p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
+</details>
+
+<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -176,4 +181,5 @@ me.say_hi()
 <div id="header" align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" />
 </div>
-<p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
+
+
