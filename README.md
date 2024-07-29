@@ -1,10 +1,16 @@
 
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmarnath-Rao&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-<br>
+[![Linkedin: N Amarnath Rap](https://img.shields.io/badge/-amar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/n-amarnath-rao/)]([https://www.linkedin.com/in/anmol098/](https://www.linkedin.com/in/n-amarnath-rao/))
+![GitHub followers](https://img.shields.io/github/followers/Amarnath-Rao?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://amarnath-rao.github.io/portfolio/)](https://amarnath-rao.github.io/portfolio/)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me..
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -13,27 +19,88 @@ pragma solidity ^0.8.0;
 contract BlockchainDeveloper {
     string public name;
     string public role;
-    string[] public languagesSpoken;
+    string[] public pronouns;
+    string[] public code;
+    string[] public askMeAbout;
+    mapping(string => string[]) public technologies;
+    string[] public architecture;
+    string public currentFocus;
+    string public funFact;
 
     constructor() {
         name = "Amarnath Rao";
         role = "Blockchain Developer";
-        languagesSpoken.push("en_IN");
-        languagesSpoken.push("en_US");
+        pronouns = ["He", "Him"];
+        code = ["Solidity", "Javascript", "Python", "Java"];
+        askMeAbout = ["blockchain", "web dev", "tech", "ai"];
+
+        technologies["backEnd"] = ["Node", "Fastify", "Express"];
+        technologies["devOps"] = ["AWS", "Docker🐳", "Route53", "Nginx"];
+        technologies["databases"] = ["mongo", "MySql", "sqlite"];
+        technologies["misc"] = ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"];
+
+        architecture = ["Serverless Architecture", "Progressive web applications", "Single page applications"];
+        currentFocus = "No Focus point at this time";
+        funFact = "There are two ways to write error-free programs; only the third one works";
     }
 
     function sayHi() public pure returns (string memory) {
         return "Thanks for dropping by, hope you find some of my work interesting.";
     }
+
+    function getTechnologies(string memory category) public view returns (string[] memory) {
+        return technologies[category];
+    }
 }
 
 ```
+👇 Hit in your console or terminal to connect with me.
 
-* 🔭 I’m currently working on **New things>?**
-* 💬 Ask me about- Blockchain, AI
-* 🔗 My Website [AmarnathRao.com](https://amarnath-rao.github.io/portfolio)
-* 📫 How to reach me : **AmarnathRao36@gmail.com**
-* ⚡ Fun fact ~ **May be sometimes too lazy**
+```bash
+npx amar
+```
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+🌆 Daytime                1780 commits        ██████████░░░░░░░░░░░░░░░   40.35 % 
+🌃 Evening                1293 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+🌙 Night                  579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Tuesday                  609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Wednesday                716 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Thursday                 586 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Friday                   463 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Saturday                 568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Sunday                   916 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+JavaScript               23 hrs 27 mins      ████████████████████░░░░░   79.06 % 
+Solidit                  2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+TypeScript               2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+HTML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+
+🔥 Editors: 
+VS code                  26 hrs 53 mins      ███████████████████████░░   90.63 % 
+Android Studio           2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+
+💻 Operating System: 
+Windows                  29 hrs 40 mins      █████████████████████████   100.00 % 
+```
+
 
 <h3 align="left">Social and coding Profiles:</h3>
 <p align="left">
