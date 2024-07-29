@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
 
 
 
@@ -166,20 +165,5 @@ me.say_hi()
   <a><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Amarnath-Rao&bg_color=1F222E&color=60e1f7&line=3a82ba&point=FFFFFF&hide_border=true" /></a>
 
 
-<h3 align="center"> 🏆 Let's Connect & Thanks for reading</h3>
-<div id="header" align="center">
-    <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />
-</div>
 
-  <div align="center">
-
-  <img class="credit"><b>Designed & Developed with <img src="https://cdn.discordapp.com/attachments/1048479953592795156/1160898238107361280/d3exa79-490266e4-bda5-4d95-88a1-9567fab7970b.gif?ex=653655bc&is=6523e0bc&hm=10f05950f31e0ce1f594d884f7964d310d96be3de52fb0323b7f6a1e5070d2fa" width="20" align="center"/> by <a href="https://github.com/Amarnath-Rao"> Amarnath Rao </b></a>
-
-  </div>
-</img>
-
-<div id="header" align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" />
-</div>
-
-
+![Visitor Count](https://profile-counter.glitch.me/Amarath-Rao/count.svg)
