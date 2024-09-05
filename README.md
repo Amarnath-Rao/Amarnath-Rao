@@ -299,7 +299,8 @@ Windows                  29 hrs 40 mins      ███████████�
 </p>
 
 <div align='center' width='100%'>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=60e1f7&icon_color=F8D866" height="192px"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Amarnath-Rao&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=60e1f7&icon_color=F8D866&hide=jupyter%20notebook,html" height="192px"/>
+
   <a width='50%' href="https://github.com/Amarnath-Rao?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=Amarnath-Rao&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@Amarnath-Rao's trophy stats"/>
   </a>
