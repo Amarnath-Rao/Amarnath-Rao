@@ -274,11 +274,7 @@ Windows                  29 hrs 40 mins      ███████████�
   </tr>
 </table>
 
-
-<details> 
-  <summary><h2>🧰 Holopin Badges</h2></summary>
 <p><a href="https://holopin.io/@ragn8rok"><img src="https://holopin.me/ragn8rok"></a></p>
-</details>
 
 
 
