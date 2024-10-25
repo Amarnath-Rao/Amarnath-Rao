@@ -104,11 +104,11 @@ Windows                  29 hrs 40 mins      ███████████�
 
 <h3 align="left">Social and coding Profiles:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/n-amarnath-rao-631669240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AmarnathRao" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Mr.BlackHole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AmarnathRao" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/n-amarnath-rao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AmarnathRao" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/AmarnathRao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AmarnathRao" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/AmarnathRao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AmarnathRao" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amarnath_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="AmarnathRao" height="30" width="40" /></a>
-<a href="https://discord.gg/mechabotz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mechabotz" height="30" width="40" /></a>
+<a href="https://discord.gg/i0xryomen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mechabotz" height="30" width="40" /></a>
 
 </p>
 <br>
@@ -304,12 +304,4 @@ Windows                  29 hrs 40 mins      ███████████�
 
 
 </div>
-
-
-
-
-
-
-
-
 <img height="100%" width="100%" alt="Bottom" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/bottom_header.svg"/>
